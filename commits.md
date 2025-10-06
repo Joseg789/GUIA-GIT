@@ -3,6 +3,8 @@
 ## ¿Qué es un commit?
 
 Un **commit** en Git es un registro de los cambios realizados en el repositorio. Cada commit guarda el estado del proyecto en un momento específico.
+es como una fotografia del estado actual de nuestro proyecto
+el cual nos permite mevernos en la linea de tiempo de desarrollo de nuestros proyectos
 
 ## ¿Cómo hacer un commit?
 
