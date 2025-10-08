@@ -2,7 +2,8 @@
 
 ## ¿Qué es un tag?
 
-Un **tag** es una referencia que apunta a un commit específico. Se usa principalmente para marcar versiones importantes (por ejemplo, lanzamientos).
+Un **tag** es una referencia que apunta a un commit específico. en la linea de tiempo del desaroollo de nuestro proyecto
+Se usa principalmente para marcar versiones importantes (por ejemplo, lanzamientos).
 
 ## Tipos de tags
 
@@ -70,8 +71,13 @@ git push --delete origin nombre-del-tag
 ## Usos comunes
 
 - Marcar versiones de lanzamiento (`v1.0.0`, `v2.1.0`, etc.).
-- Facilitar la recuperación de versiones específicas.
+- LOS NUMERO S SON IUMPORTANTES V1- V2- V3 ETC EL NUIMERO GRANDE O EL PRIMER NUMERO SUPONE UN GHRAN CAMBIO
+- POR EJEMPLO REACT 18 - REACT 19 ... EL SEGUNDO NUIMERO SUPONE AGREGAR ALGUNA FUNCIONALIDAD A NUESTRO PROYECTO
+- Y EL TERCERO SUPONE PEQUEÑOS CAMBIOS
+- OTRO USO COMUN DE LOS TAGS ES Facilitar la recuperación de versiones específicas.
 - Integración con herramientas de CI/CD.
+
+### LOS TAGS SON SUPER UTILES PARA PODER MARCAR VERSIONES DE NUESTRAS APPS O PROYECTOS
 
 ## Buenas prácticas
 
