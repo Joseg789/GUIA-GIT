@@ -1,4 +1,6 @@
-# Git Stash: Todo lo que debes saber
+## ¿Para qué usamos `git stash` y por qué debemos usarlo?
+
+Usamos `git stash` para guardar temporalmente los cambios que aún no queremos confirmar, permitiéndonos cambiar de rama o realizar otras tareas sin perder el trabajo en progreso. Es útil cuando necesitamos pausar lo que estamos haciendo y volver a un estado limpio del repositorio, asegurando que nuestros cambios no se mezclen accidentalmente con otros desarrollos. Así, podemos retomar fácilmente el trabajo guardado cuando lo necesitemos.
 
 ## ¿Qué es `git stash`?
 
