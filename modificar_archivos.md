@@ -5,6 +5,8 @@
 
 - git mv name_arch carpeta_destino
 
-## eliminar archivos
+### eliminar archivos
 
 - git rm nombre_arch
+
+###
